@@ -25613,8 +25613,7 @@ export default {
           "/tuwen/:type?"
         ],
         "categories": [
-          "social-media",
-          "popular"
+          "social-media"
         ],
         "example": "/coolapk/tuwen",
         "parameters": {
@@ -29612,7 +29611,8 @@ export default {
       "/blog": {
         "path": "/blog",
         "categories": [
-          "new-media"
+          "new-media",
+          "popular"
         ],
         "example": "/deepmind/blog",
         "parameters": {},

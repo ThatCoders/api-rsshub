@@ -25613,8 +25613,7 @@
           "/tuwen/:type?"
         ],
         "categories": [
-          "social-media",
-          "popular"
+          "social-media"
         ],
         "example": "/coolapk/tuwen",
         "parameters": {
@@ -29612,7 +29611,8 @@
       "/blog": {
         "path": "/blog",
         "categories": [
-          "new-media"
+          "new-media",
+          "popular"
         ],
         "example": "/deepmind/blog",
         "parameters": {},
